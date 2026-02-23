@@ -1,0 +1,23 @@
+npm ERR! code ERESOLVE
+npm ERR! ERESOLVE unable to resolve dependency tree
+npm ERR! 
+npm ERR! While resolving: smart-flood-prediction@0.0.0
+npm ERR! Found: react@18.3.1
+npm ERR! node_modules/react
+npm ERR!   react@"^18.2.0" from the root project
+npm ERR! 
+npm ERR! Could not resolve dependency:
+npm ERR! peer react@"^19.0.0" from react-leaflet@5.0.0
+npm ERR! node_modules/react-leaflet
+npm ERR!   react-leaflet@"*" from the root project
+npm ERR! 
+npm ERR! Fix the upstream dependency conflict, or retry
+npm ERR! this command with --force or --legacy-peer-deps
+npm ERR! to accept an incorrect (and potentially broken) dependency resolution.
+npm ERR! 
+npm ERR! 
+npm ERR! For a full report see:
+npm ERR! /home/user/.npm/_logs/2026-02-23T05_01_54_931Z-eresolve-report.txt
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/user/.npm/_logs/2026-02-23T05_01_54_931Z-debug-0.log
